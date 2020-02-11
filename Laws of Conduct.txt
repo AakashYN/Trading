@@ -1,0 +1,7 @@
+Laws of Conduct
+1. After 2 consecutive red trades, trader must stop for the day.
+2. Trader must stop after reaching reasonable daily goal and must not look for more opportunities.
+3. Trader must aim to trade as little as possible to avoid red trades.
+4. Trader must never enter into a trade with feelings of hope.
+5. Trader must stick with one base strategy and shall never use other strategies.
+6. Trader must always follow said rules.
